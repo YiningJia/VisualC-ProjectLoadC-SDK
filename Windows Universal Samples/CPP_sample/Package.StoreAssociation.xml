@@ -358,15 +358,15 @@
     <Language Code="zu-za" InMinimumRequirementSet="true" />
   </SupportedLocales>
   <ProductReservedInfo>
-    <MainPackageIdentityName>19876VungleDemo.VungleAdDemoCPPsample</MainPackageIdentityName>
+    <MainPackageIdentityName>19876VungleDemo.VungleTestAPP</MainPackageIdentityName>
     <ReservedNames>
-      <ReservedName>Vungle Ad Demo CPP sample</ReservedName>
+      <ReservedName>Vungle TestAPP</ReservedName>
     </ReservedNames>
   </ProductReservedInfo>
   <AccountPackageIdentityNames>
+    <MainPackageIdentityName>19876VungleDemo.VungleAdDemoCPPsample</MainPackageIdentityName>
     <MainPackageIdentityName>19876VungleDemo.VungleDemoCS</MainPackageIdentityName>
-    <MainPackageIdentityName>19876VungleDemo.VungleTestAPP</MainPackageIdentityName>
     <MainPackageIdentityName>19876VungleDemo.yiningTestCrash</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://dev.windows.com/dashboard/Application?appId=9NBLGGH4NKGM" />
+  <PackageInfoList LandingUrl="https://dev.windows.com/dashboard/Application?appId=9NBLGGH4NK3W" />
 </StoreAssociation>

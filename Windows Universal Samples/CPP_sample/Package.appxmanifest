@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="19876VungleDemo.VungleAdDemoCPPsample" Publisher="CN=C572E983-8320-40E7-8C9A-3D3D0A02030F" Version="1.1.0.0" />
+  <Identity Name="19876VungleDemo.VungleTestAPP" Publisher="CN=C572E983-8320-40E7-8C9A-3D3D0A02030F" Version="1.333.1.0" />
   <mp:PhoneIdentity PhoneProductId="295eb039-c87e-45ea-b80d-ad379e822ef6" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Vungle Ad Demo CPP sample</DisplayName>
+    <DisplayName>Vungle TestAPP</DisplayName>
     <PublisherDisplayName>Vungle Demo</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="CPP_sample.App">
-      <uap:VisualElements DisplayName="Vungle Ad Demo CPP sample" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="CPP_sample" BackgroundColor="transparent">
+      <uap:VisualElements DisplayName="Vungle TestAPP" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="CPP_sample" BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png">
         </uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
